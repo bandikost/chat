@@ -1,0 +1,15 @@
+.formContainer {
+    background-color: #a7bcff;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    .formWrapper {
+        form {
+            display: flex;
+            flex-direction: column;
+            gap: 15px;
+        }
+    }
+}

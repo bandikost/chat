@@ -1,0 +1,9 @@
+.nav {
+    display: block;
+}
+
+.active{
+    color: var(--color-active);
+    cursor: default;
+}
+

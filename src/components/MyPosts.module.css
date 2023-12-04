@@ -1,0 +1,12 @@
+.posts {
+    margin-top: 10px;
+   display: block;
+  
+  }
+  
+  .posts img {
+    border-radius: 50%;
+    width: 30px;
+    height: 30px;
+    background: url('https://w7.pngwing.com/pngs/1008/10/png-transparent-richard-c-weaver-handshake-businessperson-happy-business-man-hand-photography-public-relations-thumbnail.png') center no-repeat;
+  }

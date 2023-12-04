@@ -1,0 +1,11 @@
+.nav {
+    display: block;
+}
+
+.item {
+    color: blue;   
+}
+
+.content {
+    background-color: red;
+}

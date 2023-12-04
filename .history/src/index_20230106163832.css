@@ -1,0 +1,75 @@
+body {
+  margin: 0;
+  line-height: 1.6;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+
+.header {
+  display: flex;
+  justify-content: center;
+  background-color: rgb(72, 111, 169);
+  width: 100%;
+}
+
+
+.App-wrapper {
+  margin: 0 auto;
+  max-width: 1000px;
+  padding: 0;
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.header li {
+  list-style: none;
+  margin: 0 20px;
+}
+
+
+.nav {
+ float: left;
+}
+
+.nav li{
+  list-style: none;
+}
+
+.name {
+  padding: 0 50px;
+}
+
+.container-text{
+   display: block;
+   float: left;
+   padding: 0 110px;
+}
+
+.container-post {
+  display: flex;
+  margin-top: 10px;
+  padding: 0;
+}
+
+.post {
+  margin-top: 10px;
+ display: block;
+
+}
+
+.post img {
+  border-radius: 50%;
+  width: 30px;
+  height: 30px;
+  background-image: url('<img src="https://w7.pngwing.com/pngs/1008/10/png-transparent-richard-c-weaver-handshake-businessperson-happy-business-man-hand-photography-public-relations-thumbnail.png"></img>');
+}

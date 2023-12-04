@@ -1,0 +1,12 @@
+.nav {
+    display: block;
+}
+
+.item a{
+    color: gold;   
+}
+
+.active {
+    color: black
+}
+

@@ -1,0 +1,12 @@
+.nav {
+    display: block;
+}
+
+.item a{
+    color: black;   
+}
+
+.item a.selected {
+    color: white;
+}
+

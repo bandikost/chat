@@ -1,0 +1,12 @@
+.content {
+   padding-top: 15px;
+}
+
+.dialogs {
+     display: flex;
+     margin: 10px 30px;
+}
+
+.messages {
+    margin: 0 50px;
+}

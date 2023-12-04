@@ -1,0 +1,12 @@
+.content {
+   padding-top: 15px;
+}
+
+.contentcontainer {
+     display: flex;
+     margin: 0 30px;
+}
+
+.message {
+    margin: 0 50px;
+}
